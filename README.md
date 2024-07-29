@@ -48,3 +48,7 @@
 
 > createFile 后 就会 多了三个文件夹  folder   larger 和xyz
 > 代码在 extension.ts  memfs.init这个command
+
+![初始化workspace](setup_workspace.png)
+![创建目录](create_file.png)
+![结果](result.png)
